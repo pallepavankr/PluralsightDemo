@@ -1,4 +1,4 @@
-THis is just check how change works in git and github
+THis is just check how change works in git and github Editing same line Changes
 
 Edit THis file
 
